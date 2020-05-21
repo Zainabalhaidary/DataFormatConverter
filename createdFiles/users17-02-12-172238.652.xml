@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <userid>1</userid>
+        <firstname>user1 fn</firstname>
+        <surname>user1 ln</surname>
+        <username>user1 un</username>
+        <type>user1 ut</type>
+        <lastlogintime>2017-02-12 17:22:38</lastlogintime>
+    </user>
+    <user>
+        <userid>1</userid>
+        <firstname>user2 fn</firstname>
+        <surname>user2 ln</surname>
+        <username>user2 un</username>
+        <type>user2 ut</type>
+        <lastlogintime>2017-02-12 17:22:38</lastlogintime>
+    </user>
+</users>
